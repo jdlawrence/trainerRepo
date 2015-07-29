@@ -1,6 +1,6 @@
 var whatever = 'Nobody cares';
 
-var blueHairedGuy = 'the man';
+var blueHairedGuy = 'He is most certainly not the man';
 
-var third = 'IDK';
+var third = 'I know what is going on';
 
